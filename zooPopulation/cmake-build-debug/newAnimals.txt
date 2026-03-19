@@ -1,0 +1,12 @@
+New Animal Report
+
+Lion - Simba - Age: 7
+Tiger - Tony - Age: 5
+Hyena - Ariel - Age: 9
+Bear - Bernstein - Age: 5
+
+Total Animals by Species:
+Bear: 1
+Hyena: 1
+Lion: 1
+Tiger: 1
